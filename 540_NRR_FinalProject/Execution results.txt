@@ -1,0 +1,500 @@
+
+C:\Users\nrrvlkp\Documents\M\540\540_Project\540\540_NRR_FinalProject>cd C:\Users\nrrvlkp\Documents\M\540\540_Project\540\540_NRR_FinalProject
+
+C:\Users\nrrvlkp\Documents\M\540\540_Project\540\540_NRR_FinalProject>python Webscraping.py
+C:\Users\nrrvlkp\Documents\M\540\540_Project\540\540_NRR_FinalProject\logs
+laptops
+product id is : productCard-prod22480701
+Product Name :  HP 17.3" HD+ Notebook, Intel Core i3-8130U Processor, 20GB:  16GB Intel Optane + 4GB RAM, 2TB Hard Drive, Optical Drive, HD Webcam, HD Audio, 2 Year Warranty Care Pack, Windows 10 Home, Multiple Colors
+Average Rating :  4.4474
+Number of Reviews :  38
+Price : 449
+Channel :  Online only
+Promo :  $100 off 
+Source :  None
+Href :  /sams/hp-hd-plus-notebook-i3-8130u/prod22480701.ip?xid=plp_product_1_1
+
+
+product id is : productCard-prod22340262
+Product Name :  HP 15.6" HD Notebook, Intel Core i7-8550U Processor, 8GB Memory, 2TB Hard Drive, Backlit Keyboard, Optical Drive, HD Webcam, HD Audio, 2 Year Warranty Care Pack
+Average Rating :  3.75
+Number of Reviews :  4
+Price : 749
+Channel :  Online only
+Source :  None
+Href :  /sams/hp-15-da0066c-notebk-15-da0066cl/prod22340262.ip?xid=plp_product_1_2
+
+
+product id is : productCard-prod22480708
+Product Name :  HP Pavilion X360 Convertible Touchscreen 15.6" Full HD IPS Notebook, Intel Core i7-8550U Processor, 24GB Memory:  16GB Intel Optane + 8GB RAM, 1TB Hard Drive, AMD Radeon 530 Graphics, 2 Year Warranty Care Pack, Windows 10 Home Plus, Pale Gold
+Average Rating :  4.1429
+Number of Reviews :  7
+Price : 749
+Channel :  Online only
+Promo :  $250 off 
+Source :  None
+Href :  /sams/hp-pavilion-touchscreen-full-hd-ips-notebook-i7-8550u/prod22480708.ip?xid=plp_product_1_3
+
+
+product id is : productCard-prod22340259
+Product Name :  HP 15.6" HD Notebook, Intel Core i3-8130U Processor, 20GB:  16GB Intel Optane + 4GB RAM, 1TB Hard Drive, Optical Drive, HD Webcam, HD Audio, 2 Year Warranty Care Pack, Windows 10 Home
+Average Rating :  3.6667
+Number of Reviews :  3
+Price : 329
+Channel :  Online only
+Promo :  $220 off with Tech Savings
+Source :  None
+Href :  /sams/hp-hd-notebook-intel-i3-8130u-processor-20gb-hd-webcam-audio/prod22340259.ip?xid=plp_product_1_4
+
+
+product id is : productCard-prod22302464
+Product Name :  HP 15.6" HD Notebook, AMD Ryzen3 2200U Processor, 8GB Memory, 1TB Hard Drive, Optical Drive, HD Webcam, HD Audio, 2 Year Warranty Care Pack, Windows 10 Home, Jet Black
+Average Rating :  4.1
+Number of Reviews :  10
+Price : 399
+Channel :  Online
+Source :  None
+Href :  /sams/hewlett-hp-hd-notebook-amd-ryzen3-2200u-processor-8gb-webcam-audio/prod22302464.ip?xid=plp_product_1_5
+
+
+product id is : productCard-prod22304265
+Product Name :  Samsung 11.6" Chromebook 3 Intel Celeron 16GB eMMC Hard Drive 4GB Memory 
+Average Rating :  4.0405
+Number of Reviews :  74
+Promo :  $50 off 
+Source :  None
+Href :  /sams/samsung-chromebook-3-n3060-4gb-memory-16gb-emmc/prod22304265.ip?xid=plp_product_1_6
+
+
+product id is : productCard-prod22340268
+Product Name :  HP Pavilion Touchscreen 15.6" Full HD IPS Notebook, Intel Core i7-8550U Processor, 24GB Memory:  16GB Intel Optane + 8GB RAM, 1TB Hard Drive, HD Wide FOV Webcam, Backlit Keyboard, B&O Play Audio, 2 Year Warranty Care Pack, Windows 10 Home, Various Colors
+Average Rating :  4.7
+Number of Reviews :  10
+Price : 699
+Channel :  Online
+Promo :  $200 off 
+Source :  None
+Href :  /sams/15-cs0082c-notebk-15-cs0082cl/prod22340268.ip?xid=plp_product_1_7
+
+
+product id is : productCard-prod22480025
+Product Name :  HP 17.3" HD+ Notebook, Intel Core i5-8250U Processor, 24GB Memory:  16GB Intel Optane + 8GB RAM, 2TB Hard Drive, Optical Drive, HD Webcam, Backlit Keyboard, 2 Year Warranty Care Pack + Protection, Windows 10 Home, Multiple Colors
+Average Rating :  4.6139
+Number of Reviews :  101
+Price : 749
+Channel :  Online only
+Source :  None
+Href :  /sams/hp-17-hd-notebook-core-i5-8250u-optane/prod22480025.ip?xid=plp_product_1_8
+
+
+product id is : productCard-prod22890466
+Product Name :  HP Touchscreen 17.3" HD+ Laptop, Intel Core i7-8565U, 8GB Memory, 512GB Solid State Drive, TrueVision HD Webcam, Optical Drive, 2 Year Warranty Care Pack, Windows 10 Home, Multiple Colors
+Average Rating :  5
+Number of Reviews :  1
+Price : 749
+Channel :  Online
+Promo :  $250 off 
+Source :  None
+Href :  /sams/hp-17in-hd-touchscreen-laptop-intel-core-i7-8565u-8gb-memory/prod22890466.ip?xid=plp_product_1_9
+
+
+product id is : productCard-prod22922843
+Product Name :  Dell Inspiron 7567 15.6" Full HD Gaming Laptop, Intel i5-7300HQ Processor, 8GB Memory, 1TB HDD, NVIDIA GeForce GTX 1050, Backlit Keyboard, McAfee LiveSafe 30 Day Trial, Windows 10 Home
+Average Rating :  5
+Number of Reviews :  1
+Price : 699
+Channel :  Online only
+Source :  None
+Href :  /sams/dell-inspiron-7567-15in-fhd-gaming-notebook-intel-157300hq-processor/prod22922843.ip?xid=plp_product_1_10
+
+
+product id is : productCard-prod22630119
+Product Name :  HP OMEN 15.6" FHD IPS Gaming Laptop 15-dc0020nr, Intel Core i7-8750H Processor, 12GB RAM, 1 TB + 128 GB SSD HDD, NVIDIA GeForce GTX 1050 Ti 4 GB GDDR5 Dedicated Graphics, HD Wide FOV Webcam, Full-size 2-zone lighting backlit keyboard with numeric keypad
+Average Rating :  1
+Number of Reviews :  1
+Price : 1,099
+Channel :  Online only
+Source :  None
+Href :  /sams/hp-omen-laptop-15-dc0020nr-nb-core-i7-8750h/prod22630119.ip?xid=plp_product_1_11
+
+
+product id is : productCard-prod23031221
+Product Name :  HP Pavilion X360 2-in-1 15.6" Full HD Touchscreen Convertible Laptop,  Intel Core i5-8265U Processor, 8GB DDR4 Memory, 256GB PCIe NVMe M.2 SSD, HP Wide Vision HD Camera, Windows 10 Home 
+Average Rating :  0
+Number of Reviews :  0
+Price : 799
+Channel :  Online only
+Source :  None
+Href :  /sams/hp-pavilion-x360-full-hd-touchscreen-laptop-8gb-ddr4-memory-windows-10/prod23031221.ip?xid=plp_product_1_12
+
+
+product id is : productCard-prod22630139
+Product Name :  HP Pavilion 15.6" FHD IPS Gaming Laptop 15-cx0030nr, Intel Core i5-8300H Processor, 8GB RAM, 1 TB HDD + 128 GB SSD HDD, NVIDIA GeForce GTX 1050 Ti 4 GB GDDR5 Dedicated Graphics, HD Wide FOV Webcam
+Average Rating :  4
+Number of Reviews :  4
+Price : 909
+Channel :  Online only
+Source :  None
+Href :  /sams/hp-pavilion-gaming-laptop-15-cx0030nr-nb-core-i5-8300h/prod22630139.ip?xid=plp_product_1_13
+
+
+product id is : productCard-prod23031222
+Product Name :  HP 15.6" HD Touchscreen Laptop, AMD Ryzen 3 3200U Processor, 8GB DDR4 Memory, 128GB SSD, HP TrueVision HD Camera, DVD-Writer, Windows 10 Home
+Average Rating :  0
+Number of Reviews :  0
+Price : 549
+Channel :  Online only
+Source :  None
+Href :  /sams/hp-hd-touchscreen-laptop8gb-ddr4-memory-128gb-ssd-windows-10-home/prod23031222.ip?xid=plp_product_1_14
+
+
+product id is : productCard-prod23032950
+Product Name :  Dell XPS 9570 15.6" Full HD Laptop, 8GB Memory, 512GB SSD, Intel Core i7-8750H Processor, NVIDIA GTX 1050Ti Graphics, Backlit Keyboard, McAfee 12 Month, Windows 10 Home
+Average Rating :  0
+Number of Reviews :  0
+Price : 1,549
+Channel :  Online only
+Source :  None
+Href :  /sams/dell-xps-9570-fhd-laptop-8gb-memory-512gb-ssd/prod23032950.ip?xid=plp_product_1_15
+
+
+product id is : productCard-prod23032947
+Product Name :  Dell Inspiron G3 3579 15.6" Full HD Gaming Laptop, Intel Core i5-8300H Processor, NVIDIA GTX 1050 Graphics, 8GB Memory, 128GB SSD + 1TB HDD, Backlit Keyboard, Windows 10 Home
+Average Rating :  4
+Number of Reviews :  1
+Price : 799
+Channel :  Online only
+Promo :  $50 off with Tech Savings
+Source :  None
+Href :  /sams/dell-inspiron-g3-3579-fhd-gaming-laptop/prod23032947.ip?xid=plp_product_1_16
+
+
+product id is : productCard-prod22630120
+Product Name :  HP OMEN 17.3" FHD IPS Gaming Laptop 17-an110nr, Intel Core i7-8750H Processor, 12 GB DDR4 RAM, 1 TB SATA + 128GB SSD HDD, NVIDIA GeForce GTX 1050 Ti 4 GB GDDR5 Dedicated Graphics, Full-size 4-zone lighting backlit keyboard with numeric keypad and NKRO
+Average Rating :  4
+Number of Reviews :  3
+Price : 1,219
+Channel :  Online only
+Source :  None
+Href :  /sams/hp-omen-17-an110nr-laptop-core-i7-8750h/prod22630120.ip?xid=plp_product_1_17
+
+
+product id is : productCard-prod22630118
+Product Name :  HP OMEN Gaming Laptop 15-dc0010nr, Intel Core i5-8300H Processor, NVIDIA GeForce GTX 1050 Ti Graphics, 12 GB RAM, 1TB HDD, 128 GB SSD
+Average Rating :  2
+Number of Reviews :  1
+Price : 979
+Channel :  Online only
+Source :  None
+Href :  /sams/hp-omen-15-dc0010nr-nb-core-i5-8300h/prod22630118.ip?xid=plp_product_1_18
+
+
+product id is : productCard-prod23033745
+Product Name :  Dell Inspiron 5584 15.6" Full HD Laptop, Intel Core i7-8565U Processor, Intel UHD 620 Graphics, 8GB Memory, 128GB SSD + 1TB HDD, Finger Print Reader, Backlit Keyboard, Windows 10 Home
+Average Rating :  0
+Number of Reviews :  0
+Price : 799
+Channel :  Online only
+Source :  None
+Href :  /sams/dell-inspiron-5584-fhd-laptop/prod23033745.ip?xid=plp_product_1_19
+
+
+product id is : productCard-prod23031232
+Product Name :  HP 17.3" HD+ Laptop, AMD A9-9425 Processor, 4GB DDR4 Memory, 1TB 5400 RPM Hard Drive, AMD Radeon R5 Graphics, DVD-Writer, Windows 10 Home
+Average Rating :  5
+Number of Reviews :  1
+Price : 489
+Channel :  Online only
+Source :  None
+Href :  /sams/hp-hd-laptop-4gb-ddr4-memory-1tb-windows-10-home/prod23031232.ip?xid=plp_product_1_20
+
+
+product id is : productCard-prod23031230
+Product Name :  HP 17.3" HD+ Laptop, AMD A9-9425 Processor, 8GB DDR4 Memory, 1TB 5400 RPM Hard Drive, DVD-Writer, Windows 10 Home
+Average Rating :  5
+Number of Reviews :  2
+Price : 529
+Channel :  Online only
+Source :  None
+Href :  /sams/hp-hd-laptop-8gb-ddr4-memory-1tb-windows-10-home/prod23031230.ip?xid=plp_product_1_21
+
+
+product id is : productCard-prod22890316
+Product Name :  HP 17.3" HD+ Laptop, Intel Core i3-8145U, 4Gb Memory, 1TB Hard Drive, Backlit Keyboard, Optical Drive, 2 Year Warranty Care Pack, Windows 10 Home, Multiple Colors
+Average Rating :  0
+Number of Reviews :  0
+Price : 479
+Channel :  Online
+Source :  None
+Href :  /sams/hp-hd-laptop-intel-core-i3-8145u-4gb-memory-1tb-hard-drive/prod22890316.ip?xid=plp_product_1_22
+
+
+product id is : productCard-prod22910869
+Product Name :  HP 15.6" HD Laptop, Intel Core i3-8145U, 4GB Memory, 128GB SSD, Backlit Keyboard, HD TrueVision HD Webcam, 2 Year Warranty Care Pack, Windows 10 Home, Multiple Colors
+Average Rating :  0
+Number of Reviews :  0
+Price : 399
+Channel :  Online
+Source :  None
+Href :  /sams/hp-hd-laptop-intel-core-i3-8145u-4gb-memory-128gb/prod22910869.ip?xid=plp_product_1_23
+
+
+product id is : productCard-prod23034064
+Product Name :  Dell XPS 9570 15.6" Ultra HD 4K Touchscreen Laptop, Intel Core i9-8950HK Processor, NVIDIA GTX 1050Ti, 32GB Memory, 1TB SSD, Backlit Keyboard, 12 Months McAfee, Windows 10 Home
+Average Rating :  0
+Number of Reviews :  0
+Price : 2,749
+Channel :  Online only
+Source :  None
+Href :  /sams/dell-xps-8570-uhd-4k-touchscreen-laptop-intel-core-i9-8950/prod23034064.ip?xid=plp_product_1_24
+
+
+product id is : productCard-prod22890315
+Product Name :  HP 15.6" HD Laptop, Intel Core i5-8265U, 8GB Memory, 256GB SSD, Backlit Keyboard, 2 Year Warranty Care Pack, Windows 10 Home in S Mode, Multiple Colors
+Average Rating :  0
+Number of Reviews :  0
+Price : 649
+Channel :  Online
+Source :  None
+Href :  /sams/hp-hd-laptop-intel-core-i5-8265u-8gb-memory-256gb/prod22890315.ip?xid=plp_product_1_25
+
+
+product id is : productCard-prod23034049
+Product Name :  Dell Inspiron 3580 15.6" Touch Full HD Laptop, Intel Core i3-8145U Processor, 4GB Memory, 1TB HDD, Intel UHD 620 graphics, DVD-RW, Windows 10, Black
+Average Rating :  0
+Number of Reviews :  0
+Price : 499
+Channel :  Online only
+Source :  None
+Href :  /sams/dell-inspiron-3580-touch-full-hd-laptop-intel-core-i3-8145u-processor/prod23034049.ip?xid=plp_product_1_26
+
+
+product id is : productCard-prod23122414
+Product Name :  MSI GF75 Thin 9SC-027 Full HD 17.3" Gaming Laptop, Intel Core i7-9750H, 16GB Memory, 512GB NVMe SSD, Thin Bezel, NVIDIA GeForce GTX1650, Windows 10
+Average Rating :  0
+Number of Reviews :  0
+Price : 1,199
+Channel :  Online only
+Source :  None
+Href :  /sams/msi-gf75-thin-9sc-027-full-hd-gaming-laptop-intel-core-i7-9750h-16gb-memory/prod23122414.ip?xid=plp_product_1_27
+
+
+product id is : productCard-prod22630136
+Product Name :  HP Pavilion 15.6" FHD IPS Gaming Laptop 15-cx0040nr, Intel Core i5-8300H Processor, 8 GB DDR4-2666 RAM, 128 GB PCIe NVMe M.2 SSD + 1 TB 5400 RPM SATA HDD, AMD Radeon RX-560X 2 GB GDDR5 Graphics
+Average Rating :  3
+Number of Reviews :  1
+Price : 829
+Channel :  Online only
+Source :  None
+Href :  /sams/hp-pavilion-gaming-laptop-15-cx0040nr-nb-core-i5-8300h/prod22630136.ip?xid=plp_product_1_28
+
+
+product id is : productCard-prod23031223
+Product Name :  HP 15.6" HD Touchscreen Laptop,  Intel Core i5-8265U Processor, 8GB DDR4 Memory, 1TB SATA HDD+ 128GB SSD, Windows 10 Home
+Average Rating :  0
+Number of Reviews :  0
+Price : 679
+Channel :  Online only
+Source :  None
+Href :  /sams/hp-hd-touchscreen-laptop-8gb-ddr4-memory-1tb-windows-10-home/prod23031223.ip?xid=plp_product_1_29
+
+
+product id is : productCard-prod23032948
+Product Name :  Dell Inspiron 5482 14" Full HD 2-in-1 Touchscreen Laptop, Intel Core i7-8565U Processor, Intel UHD Graphics, 8GB Memory, 256GB SSD, Backlit Keyboard, Windows 10 Home
+Average Rating :  0
+Number of Reviews :  0
+Price : 849
+Channel :  Online only
+Promo :  $50 off with Tech Savings
+Source :  None
+Href :  /sams/dell-inspiron-5482-14in-fhd-2-in-1-touchscreen-laptop/prod23032948.ip?xid=plp_product_1_30
+
+
+product id is : productCard-prod23031233
+Product Name :  HP Pavilion 15.6" Full HD Touchscreen Laptop, Intel Core i5-8265U Processor, 8GB DDR4 Memory, 1TB 5400 rpm Hard Drive, B&O with dual speakers , Windows 10 Home
+Average Rating :  0
+Number of Reviews :  0
+Price : 649
+Channel :  Online only
+Source :  None
+Href :  /sams/hp-pavilion-full-hd-touchscreen-laptop-intel-core-i5-8265u-windows-10/prod23031233.ip?xid=plp_product_1_31
+
+
+product id is : productCard-prod22302476
+Product Name :  HP Pavilion 15.6" Full HD IPS Notebook, Intel Core i5-8250U Processor, 24GB Memory:  16GB Intel Optane + 8GB RAM, 1TB Hard Drive, Backlit Keyboard, HD Webcam, B&O Play Audio, 2 Year Warranty Care Pack, Windows 10 Home, Multiple Colors
+Average Rating :  4.2
+Number of Reviews :  5
+Price : 499
+Channel :  Online only
+Source :  None
+Href :  /sams/hewlett-hp-pavilion-ips-notebk-i5-8250u-processor-24gb-hd-webcam-audio/prod22302476.ip?xid=plp_product_1_32
+
+
+product id is : productCard-prod22272915
+Product Name :  HP 17.3" HD+ Notebook, Intel Core i5-8250U Processor, 24GB Memory:á 16GB Intel Optane + 8GB RAM, 1TB Hard Drive, Optical Drive, HD Webcam, Backlit Keyboard, 2 Year Warranty Care Pack, Windows 10 Home, Multiple Colors
+Average Rating :  4.598
+Number of Reviews :  102
+Price : 649
+Channel :  Online
+Source :  None
+Href :  /sams/hewlett-hp-tech-notebook-intel-i5-8250u-processor-24gb-hd-webcam-audio/prod22272915.ip?xid=plp_product_1_33
+
+
+product id is : productCard-prod22881387
+Product Name :  Dell Inspiron 7773 Touchscreen 17.3" Full HD Laptop, Intel Core i7-8550U Processor, 16GB Memory, 2TB HDD, NVIDIA MX150 Graphics, Backlit Keyboard, McAfee 12 Month, Windows 10 Home
+Average Rating :  0
+Number of Reviews :  0
+Price : 949
+Channel :  Online
+Promo :  $100 off with Tech Savings
+Source :  None
+Href :  /sams/inspiron-17-7773/prod22881387.ip?xid=plp_product_1_34
+
+
+product id is : productCard-prod23122413
+Product Name :  MSI GE75 Raider-287 Full HD 17.3" Gaming Laptop, Intel Core i7-9750H Processor, 16GB Memory, 512GB NVMe SSD, 144Hz Display, Thin Bezel, NVIDIA GeForce RTX2060, Windows 10
+Average Rating :  0
+Number of Reviews :  0
+Price : 1,799
+Channel :  Online only
+Source :  None
+Href :  /sams/msi-ge75-raider-287-full-hd-gaming-laptop-intel-core-i7-9750h-processor/prod23122413.ip?xid=plp_product_1_35
+
+
+product id is : productCard-prod23122410
+Product Name :  MSI GS65 Stealth-420 Full HD 15.6" Gaming Laptop, Intel Core i7-9750H Processor, 32GB Memory, 512GB NVMe SSD, 240Hz Display, Thin Bezel, NVIDIA GeForce RTX2080, Windows 10 Pro
+Average Rating :  0
+Number of Reviews :  0
+Price : 2,999
+Channel :  Online only
+Source :  None
+Href :  /sams/msi-gs65-stealth-420-full-hd-gaming-laptop-intel-core-i7-9750h-processor/prod23122410.ip?xid=plp_product_1_36
+
+
+product id is : productCard-prod23033759
+Product Name :  Dell Inspiron 5584 15.6" Full HD Laptop, Intel Core i7-8565U Processor, Intel UHD Graphics 620, 12GB Memory, 512GB SSD, Finger Print Reader, Backlit Keyboard, Windows 10 Home
+Average Rating :  0
+Number of Reviews :  0
+Price : 899
+Channel :  Online only
+Promo :  $50 off with Tech Savings
+Source :  None
+Href :  /sams/dell-inspiron-5584-fhd-laptop/prod23033759.ip?xid=plp_product_1_37
+
+
+product id is : productCard-prod23033746
+Product Name :  Dell Inspiron 3780 17.3" Full HD Laptop, Intel Core i7-8565U Processor, AMD Radeon 520 Graphics, 16GB Memory, 256GB SSD + 2TB HDD, DVD Drive, Backlit Keyboard, Windows 10 Pro
+Average Rating :  0
+Number of Reviews :  0
+Price : 979
+Channel :  Online only
+Promo :  $70 off with Tech Savings
+Source :  None
+Href :  /sams/dell-inspiron-3780-fhd-laptop/prod23033746.ip?xid=plp_product_1_38
+
+
+product id is : productCard-prod23033743
+Product Name :  Dell Inspiron 5585 15.6" Full HD Laptop, AMD Ryzen 7 3700U Processor, AMD RX Vega 10 Graphics, 16GB Memory, 512GB SSD, Fingerprint Reader, Backlit Keyboard, Windows 10 Home
+Average Rating :  0
+Number of Reviews :  0
+Price : 859
+Channel :  Online only
+Promo :  $40 off with Tech Savings
+Source :  None
+Href :  /sams/dell-inspiron-5585-fhd-laptop/prod23033743.ip?xid=plp_product_1_39
+
+
+product id is : productCard-prod22380452
+Product Name :  ASUS 14.0" HD Thin & Light Notebook, Intel Celeron N3060 Processor, 4GB Memory, 64GB eMMC Hard Drive, 2 Year Warranty, Windows 10 Home
+Average Rating :  3.8125
+Number of Reviews :  32
+Price : 299
+Channel :  Online only
+Source :  None
+Href :  /sams/asus-thin-light-notebook-intel-n3060-4gb-64gb-emmc-hard-drive/prod22380452.ip?xid=plp_product_1_40
+
+
+product id is : productCard-prod23032949
+Product Name :  Dell Inspiron 5482 14" Full HD 2-in-1 Touchscreen Laptop, Intel Core i7-8565U Processor, 16GB Memory, 512GB SSD, Intel UHD Graphics, Backlit Keyboard, Windows 10 Home
+Average Rating :  0
+Number of Reviews :  0
+Price : 949
+Channel :  Online only
+Promo :  $50 off with Tech Savings
+Source :  None
+Href :  /sams/dell-inspiron-5482-14in-fhd-2-in-1-touchscreen-laptop/prod23032949.ip?xid=plp_product_1_41
+
+
+product id is : productCard-prod22740371
+Product Name :  Lenovo ideapad 330 15.6" HD Laptop, Intel Core i3-8130U Processor, 8GB Memory, 2TB Hard Drive, Windows 10, DVD-R/W, 0.3 MP Camera, Bluetooth 4.1, Platinum Grey
+Average Rating :  0
+Number of Reviews :  0
+Price : 549
+Channel :  Online only
+Source :  None
+Href :  /sams/lenovo-81dj000aus-15in-hd-laptop-i3-8130u-8gb-2tb/prod22740371.ip?xid=plp_product_1_42
+
+
+product id is : productCard-prod22630138
+Product Name :  HP Pavilion 15.6" FHD IPS Gaming Laptop 15-cx0020nr, Intel Core i5-8300H Processor, 24GB Memory:  16GB Intel Optane + 8GB RAM, 1 TB HDD, NVIDIA GeForce GTX 1050 Ti 4 GB GDDR5 Dedicated Graphics, HD Wide FOV Webcam, Dual Array Digital Mics, B&O Play Audio
+Average Rating :  3
+Number of Reviews :  1
+Price : 879
+Channel :  Online only
+Source :  None
+Href :  /sams/hp-pavilion-gaming-laptop-15-cx0020nr-nb-core-i5-8300h/prod22630138.ip?xid=plp_product_1_43
+
+
+product id is : productCard-prod22740372
+Product Name :  Lenovo Legion Y7000 15.6" Full HD IPS Laptop, Intel Core i7-8750H Processor, 16GB Memory, 128GB SSD + 1TB HDD, Windows 10, 720P Camera, Bluetooth 4.1, Aluminum
+Average Rating :  0
+Number of Reviews :  0
+Price : 1,399
+Channel :  Online only
+Source :  None
+Href :  /sams/lenovo-81lf0001us-15in-laptop-i7-8750h-16gb-1tb/prod22740372.ip?xid=plp_product_1_44
+
+
+product id is : productCard-prod23031225
+Product Name :  HP 15.6" HD Laptop, AMD A9-9425, 4 GB DDR4 Memory, 1 TB 5400 rpm SATA, HP TrueVision HD Camera, DVD-Writer, Windows 10 Home, Multiple Colors
+Average Rating :  5
+Number of Reviews :  1
+Price : 439
+Channel :  Online only
+Source :  None
+Href :  /sams/hp-hd-laptop-amd-a9-9425-4gb-ddr4-memory-1tb-windows-10-home/prod23031225.ip?xid=plp_product_1_45
+
+
+product id is : productCard-prod23132883
+Product Name :  HP Stream 14.0" HD Laptop, AMD Dual Core A4 Processor, 4GB Memory, 32GB eMMC Storage, HP Webcam, 1-year Office 365 Personal, 2-Year HP Care Pack with Accidental Damage Protection
+Average Rating :  0
+Number of Reviews :  0
+Price : 249
+Channel :  Online
+Source :  None
+Href :  /sams/hp-14in-hd-stream-laptop-amd-dual-core-a4-processor-4gb-memory/prod23132883.ip?xid=plp_product_1_46
+
+
+product id is : productCard-prod23034058
+Product Name :  Dell Inspiron G5 5590 15.6" Full HD Gaming Laptop, Intel Core i5-8300H Processor, 8GB Memory, 128GB SSD + 1TB HDD, NVIDIA GeFroce 1050Ti graphics, Backlit Keyboard, Windows 10 Home
+Average Rating :  0
+Number of Reviews :  0
+Price : 999
+Channel :  Online only
+Source :  None
+Href :  /sams/dell-inspiron-g5-5590-full-hd-gaming-laptop-intel-core-i5-8300h-processor/prod23034058.ip?xid=plp_product_1_47
+
+
+product id is : productCard-prod23034046
+Product Name :  Dell Inspiron 3580 15.6" Full HD Laptop, Intel Core i5-8265U Processor, 8GB Memory, 1TB HDD, Intel UHD 620 Graphics, DVD-RW, 3-1 Media Card Reader, Windows 10 Home
+Average Rating :  0
+Number of Reviews :  0
+Price : 599
+Channel :  Online only
+Source :  None
+Href :  /sams/dell-inspiron-3580-full-lhd-laptop-intel-core-i5-8265u-processor/prod23034046.ip?xid=plp_product_1_48
+
+
+Exported list to csv
+
+C:\Users\nrrvlkp\Documents\M\540\540_Project\540\540_NRR_FinalProject>
